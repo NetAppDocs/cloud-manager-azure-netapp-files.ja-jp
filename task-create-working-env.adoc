@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task-create-working-env.html 
+keywords: azure netapp files, create working environment, working environment 
+summary: Azure Active Directory アプリケーションのセットアップが完了したら、必要なボリュームを作成できるように、 Cloud Manager で Azure NetApp Files の作業環境を作成します。 
+---
+= Azure NetApp Files 作業環境を作成します
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Azure Active Directory アプリケーションのセットアップが完了したら、必要なボリュームの作成を開始できるように、 Cloud Manager で Azure NetApp Files の作業環境を作成します。
+
+.手順
+. キャンバスページで、 * 作業環境の追加 * をクリックします。
+. [Microsoft Azure* ] 、 [*Azure NetApp Files *] の順に選択します。
+. 以前に設定した AD アプリケーションの詳細を指定します。
++
+image:screenshot_anf_details.gif["Azure NetApp Files 作業環境の作成に必要なフィールドのスクリーンショット。名前、アプリケーション ID 、クライアントシークレット、およびディレクトリ ID を含みます。"]
+
+. [ 追加（ Add ） ] をクリックします。
+
+
+これで Azure NetApp Files の作業環境が作成されました。
+
+image:screenshot_anf_we.gif["Azure NetApp Files 作業環境のスクリーンショット。"]
+
+link:task-create-volumes.html["ボリュームの作成と管理を開始します"]。

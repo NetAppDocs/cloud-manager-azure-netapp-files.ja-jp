@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task-quick-start.html 
+keywords: set up azure netapp files, quick start 
+summary: これらの手順を実行してすぐに作業を開始するか、残りのセクションまでスクロールして詳細を確認してください。 
+---
+= Azure NetApp Files のクイックスタート
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+これらの手順を実行するか、リンク先を参照して詳細を確認してください。
+
+[role="quick-margin-para"]
+Azure から Azure AD アプリケーションに権限を付与し、アプリケーション（クライアント） ID 、ディレクトリ（テナント） ID 、クライアントシークレットの値をコピーします。
+
+[role="quick-margin-para"]
+link:task-set-up-azure-ad.html["Azure AD アプリケーションのセットアップ方法について説明します"]。
+
+[role="quick-margin-para"]
+Cloud Manager で、 * 作業環境の追加 * > * Microsoft Azure * > * Azure NetApp Files * をクリックし、 AD アプリケーションの詳細を指定します。
+
+[role="quick-margin-para"]
+link:task-create-working-env.html["作業環境の作成方法について説明します"]。
