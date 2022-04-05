@@ -6,6 +6,7 @@ summary: 作業環境をセットアップしたら、 Azure NetApp Files アカ
 ---
 = Azure NetApp Files のボリュームを管理します
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

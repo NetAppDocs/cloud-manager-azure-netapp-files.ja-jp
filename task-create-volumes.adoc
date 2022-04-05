@@ -6,6 +6,7 @@ summary: 作業環境をセットアップしたら、 Azure NetApp Files アカ
 ---
 = Azure NetApp Files 用のボリュームを作成してマウント
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Azure Active Directory アプリケーションのセットアップが
 ---
 = Azure NetApp Files 作業環境を作成します
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

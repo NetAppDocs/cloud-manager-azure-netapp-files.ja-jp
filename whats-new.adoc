@@ -6,6 +6,7 @@ summary: Cloud Manager の Azure NetApp Files サポートの新機能につい�
 ---
 = 新機能
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
