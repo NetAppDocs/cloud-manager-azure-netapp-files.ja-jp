@@ -100,19 +100,14 @@
   <block id="111f8adcabf0dbf53cb2df15a658fa78" category="summary">Cloud Manager の Azure NetApp Files サポートの新機能について説明します。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新機能</block>
   <block id="38846f2e814afa2a7bb17dd217e62420" category="paragraph">Cloud Manager の Azure NetApp Files の新機能について説明します。</block>
-  <block id="13c380d451c296cda1d1289b9dc25114" category="section-title">2021 年 4 月 11 日</block>
   <block id="860941d67aa8a8a442ba4a65191838cf" category="section-title">ボリュームテンプレートのサポート</block>
   <block id="28c1b76e8b0c8f418301bc750b4e9f0e" category="paragraph">新しいアプリケーションテンプレートサービスを使用すると、 Azure NetApp Files のボリュームテンプレートを設定できます。テンプレートを使用すると、容量プール、サイズ、プロトコル、 VNet 、ボリュームを配置するサブネットなど、一部のボリュームパラメータがテンプレートにすでに定義されているため、ジョブの簡易化に役立ちます。パラメータがすでに事前定義されている場合は、次のボリュームパラメータに進みます。</block>
   <block id="65d2e55c231c87b516e734e63f823cf5" category="inline-link">アプリケーションテンプレートと、環境での使用方法について説明します</block>
   <block id="cd05e30aad2bf16b78d020365a79dcae" category="list-text"><block ref="cd05e30aad2bf16b78d020365a79dcae" category="inline-link-rx"></block></block>
   <block id="1636ba950a663744d701c73060d64523" category="inline-link-macro">テンプレートから Azure NetApp Files ボリュームを作成する方法について説明します</block>
-  <block id="7c71a00ffc85c076da82cb46fe08c3e9" category="list-text"><block ref="7c71a00ffc85c076da82cb46fe08c3e9" category="inline-link-macro-rx"></block></block>
-  <block id="1758589feb07955b2d0a7b0b09d739c8" category="section-title">2021 年 3 月 8 日</block>
   <block id="de5b4c52cc860c2f7cacca0bb7f4265f" category="section-title">サービスレベルを動的に変更</block>
   <block id="65ade213f17aabb636c7c98c83fa9121" category="paragraph">ワークロードのニーズを満たし、コストを最適化するために、ボリュームのサービスレベルを動的に変更できるようになりました。ボリュームは、ボリュームに影響を及ぼすことなく、もう一方の容量プールに移動されます。</block>
   <block id="f89e84889d5fd0c46e9997ddb21ac922" category="inline-link-macro">ボリュームのサービスレベルを変更する方法について説明します</block>
-  <block id="44018d380623b1a890936411e2d032ce" category="paragraph"><block ref="62d875c6bc4ea91f55b1d274c3b3a04d" category="inline-link-macro-rx"></block>。</block>
-  <block id="4385db6cd2d63e547180bf0e667fe804" category="section-title">2020 年 8 月 3 日</block>
   <block id="629ca03a8a495acd7bc18927ca4da6cc" category="section-title">Azure NetApp Files のセットアップと管理</block>
   <block id="51faca1c58439a1d1223104a28f554cc" category="paragraph">Azure NetApp Files は Cloud Manager から直接セットアップおよび管理できます。Azure NetApp Files 作業環境を作成したら、次の作業を実行できます。</block>
   <block id="a42ed9034f13a0f6a3660f2c241f605f" category="list-text">NFS ボリュームと SMB ボリュームを作成</block>
@@ -120,7 +115,6 @@
   <block id="e54595e40dfd177a2a9e671c794a3a4d" category="paragraph">Cloud Manager では、ボリューム Snapshot を作成、削除、リストアできます。新しい容量プールを作成してそのサービスレベルを指定することもできます。</block>
   <block id="5054d68a0b2f03dece3eb72cfaa09427" category="list-text">サイズを変更し、タグを管理してボリュームを編集します。</block>
   <block id="396a3c9fb559d38e68f68ea139b3539a" category="paragraph">以前のデータ移行機能は、 Cloud Manager から Azure NetApp Files を直接作成および管理できるようになりました。</block>
-  <block id="a2eb09579e2fa44c07cf82cfba775030" category="section-title">2020 年 4 月 5 日</block>
   <block id="02a58c551f186d8f833147198d69fb26" category="section-title">Azure NetApp Files へのデータ移行</block>
   <block id="8d30064c294030bc7a1446fe0cf94ca9" category="paragraph">NFS または SMB データを Azure NetApp Files に Cloud Manager から直接移行できるようになりました。データの同期には、ネットアップの Cloud Sync サービスが利用されています。</block>
   <block id="af08318aa95b670c097bf944ab12d208" category="summary">作業環境をセットアップしたら、 Azure NetApp Files アカウント、容量プール、およびボリュームを作成できます。</block>
@@ -260,4 +254,10 @@
   <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">ネットアップコミュニティ</block>
   <block id="ff6c37cbc252e306a6b4e390ec13cbc1" category="sidebar">Cloud Central のブログです</block>
   <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">クラウドに関する Web セミナー</block>
+  <block id="29c251ed5a57bbffe470654ccbbe714c" category="section-title">2021 年 4 月 11 日</block>
+  <block id="5651031c9f0714bccf2089b101c736e0" category="list-text"><block ref="5651031c9f0714bccf2089b101c736e0" category="inline-link-rx"></block></block>
+  <block id="dbbd746e2d2c019dcb0c3c40b74f4f75" category="section-title">2021 年 3 月 8 日</block>
+  <block id="1ae0904e8670b3e6cfc9006eb635216b" category="paragraph"><block ref="e311d6cb2bd5a49340f86a76ff0511b7" category="inline-link-rx"></block>。</block>
+  <block id="95fa237a7a6265df02b6172c4be387f7" category="section-title">2020 年 8 月 3 日</block>
+  <block id="173fd2f937506a4111b0bc09349619a8" category="section-title">2020 年 4 月 5 日</block>
 </blocks>
