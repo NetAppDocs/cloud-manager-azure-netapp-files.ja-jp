@@ -89,7 +89,7 @@ image:screenshot_azure_access_control.gif["Azure ポータルでカスタムロ�
 [source, json]
 ----
 "actions": [
-    "Microsoft.NetApp/*",
+    "Microsoft.NetApp/*"
     ],
 ----
 .. [ * 保存 * ] をクリックし、 [ * 次へ * ] をクリックして、 [ * 作成 * ] をクリックします。
