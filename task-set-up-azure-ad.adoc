@@ -89,7 +89,13 @@ image:screenshot_azure_access_control.gif["Azure ポータルでカスタムロ�
 [source, json]
 ----
 "actions": [
-    "Microsoft.NetApp/*"
+    "Microsoft.NetApp/*",
+    "Microsoft.Resources/resources/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/read",
+    "Microsoft.Resources/subscriptions/resourcegroups/resources/read",
+    "Microsoft.Resources/subscriptions/resourceGroups/write",
+    "Microsoft.Network/virtualNetworks/read",
+    "Microsoft.Insights/Metrics/Read"
     ],
 ----
 .. [ * 保存 * ] をクリックし、 [ * 次へ * ] をクリックして、 [ * 作成 * ] をクリックします。
